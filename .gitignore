@@ -49,4 +49,8 @@ ipython_config.py
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,visualstudiocode,linux
+
+#weight directory
+lora_emotion/
+lora_emotion_adapter/
+
