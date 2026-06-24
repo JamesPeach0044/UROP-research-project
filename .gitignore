@@ -58,3 +58,4 @@ lora_emotion_adapter/
 *.json
 *.pth
 README.md
+*.jpg
