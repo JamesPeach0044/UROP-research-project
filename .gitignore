@@ -54,3 +54,7 @@ ipython_config.py
 lora_emotion/
 lora_emotion_adapter/
 
+*.pt
+*.json
+*.pth
+README.md
