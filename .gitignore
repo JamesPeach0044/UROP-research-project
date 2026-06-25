@@ -60,3 +60,4 @@ lora_emotion_adapter/
 README.md
 *.jpg
 llamaAccessToken.py
+__pycache__
