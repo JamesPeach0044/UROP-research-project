@@ -59,3 +59,4 @@ lora_emotion_adapter/
 *.pth
 README.md
 *.jpg
+llamaAccessToken.py
